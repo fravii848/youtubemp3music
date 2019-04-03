@@ -1,6 +1,6 @@
 # youtubemp3music
 
-Bot Telegram em PHP, para download de músicas em formato MP3 do YouTube!
+Bot Telegram em PHP, para download de músicas do YouTube, em formato MP3!
 
 INSTALAÇÂO:
 
