@@ -1,8 +1,3 @@
-/* youtubemp3music é um BOT Telegram em PHP, para download de músicas em formato MP3 do YouTube
-   Baixe o códido PHP e insira o TOKEN do seu BOT
-   Ao enviar um link de um vídeo do YouTube ao seu BOT o mesmo retornará um link de download no formato em MP3 */
-
-
 <?php
 define('BOT_TOKEN', 'INSIRA AQUI O TOKEN DO SEU BOT');
 define('API_URL', 'https://api.telegram.org/bot'.BOT_TOKEN.'/');
