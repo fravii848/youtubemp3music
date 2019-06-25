@@ -1,5 +1,5 @@
 <?php
-define('BOT_TOKEN', 'INSIRA AQUI O TOKEN DO SEU BOT');
+define('BOT_TOKEN', '874372131:AAHLdwQICnbpRslma5eQAfzgYYHqJgoRQCA');
 define('API_URL', 'https://api.telegram.org/bot'.BOT_TOKEN.'/');
 function processMessage($message) {
   // processa a mensagem recebida
